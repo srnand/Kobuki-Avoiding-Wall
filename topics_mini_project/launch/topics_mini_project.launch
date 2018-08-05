@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="topics_mini_project" type="publisher" name="publisher" output="screen">
+    </node>
+</launch>
